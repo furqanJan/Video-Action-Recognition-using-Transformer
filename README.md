@@ -1,4 +1,4 @@
-﻿# Video Action Recognition with CNN, LSTM, and Transformer Models
+# Video Action Recognition with CNN, LSTM, and Transformer Models
 
 ## Description
 
